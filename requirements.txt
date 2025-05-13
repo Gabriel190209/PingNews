@@ -1,0 +1,9 @@
+Flask
+Flask-SocketIO
+eventlet
+requests
+beautifulsoup4
+transformers
+torch
+scikit-learn
+sentencepiece
